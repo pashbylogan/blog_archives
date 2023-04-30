@@ -124,7 +124,6 @@ To use our specific models in Label Studio:
                           rows="2" editable="true"
                           required="true" />
           </View>
-        
         ```
         
 5. Import data and view the automatic predictions!
@@ -148,8 +147,7 @@ Autocut is an open-source tool that can help teachers and professors save time a
 
 Yes! However, since it was a school project we had to make the repo private. Get in touch with me and I can get you access.
 
-##   
-**Future Work and Ideas**
+## **Future Work and Ideas**
 
 While Autocut is a powerful tool for automatically cleaning up recorded lectures, there is still room for improvement and expansion. Here are some potential areas for future work and ideas for Autocut:
 
