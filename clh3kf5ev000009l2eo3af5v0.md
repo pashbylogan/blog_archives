@@ -129,7 +129,7 @@ To use our specific models in Label Studio:
 5. Import data and view the automatic predictions!
     
 
-# FAQs
+## FAQs
 
 ### **Why Label Studio?**
 
